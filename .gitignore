@@ -1,2 +1,23 @@
+# Dataset
+data/
+dataset/
+*.zip
+
+# Models & weights
+*.h5
+*.keras
 *.pt
-*.safetensors
+*.pkl
+*.npy
+
+# Embeddings
+glove*
+fasttext*
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
