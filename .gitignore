@@ -1,0 +1,21 @@
+# model artifacts / checkpoints
+outputs_ML/
+outputs_bert/
+output_RNN_LSTM/
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.bin
+*.h5
+*.keras
+*.npy
+
+# data
+
+
+# env / cache
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env/
