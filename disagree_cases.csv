@@ -1,0 +1,32 @@
+STT,Tweet,Final Votes,tweet_clean,pred_ML,pred_RNN,pred_BERT,y_true,all_agree
+1,@IamReagzo Ohh now my stupid brain was somewhere,Neither,ohh stupid brain somewhere,Neither,Neither,Offensive,Neither,False
+2,@vesperdigital You're obviously an idiot.,Offensive,obviously idiot,Neither,Neither,Hate,Offensive,False
+3,@Hankers @tleehumphrey @primetimecrime @cbcwatcher For fuck's sakes.,Neither,fuck sakes,Hate,Neither,Offensive,Neither,False
+5,@RaymondRowan7 Who gives a fuck.,Offensive,gives fuck,Hate,Neither,Offensive,Offensive,False
+12,"Shut up, you don’t know anything.",Offensive,shut know anything,Hate,Neither,Hate,Offensive,False
+13,That movie was so damn boring.,Neither,movie damn boring,Neither,Neither,Offensive,Neither,False
+14,You’re such an idiot.,Offensive,idiot,Neither,Offensive,Hate,Offensive,False
+15,Muslims are all terrorists.,Hate,muslims terrorists,Neither,Neither,Hate,Hate,False
+16,I can’t stand those people from that religion.,Hate,stand people religion,Neither,Neither,Hate,Hate,False
+20,Those people are ruining our culture.,Hate,people ruining culture,Neither,Neither,Hate,Hate,False
+23,@realMaalouf And this is acceptable but questioning your countrys immigration policy is racist hate speech,Hate,acceptable questioning countrys immigration policy racist hate speech,Hate,Neither,Neither,Hate,False
+24,Stop being such a fool.,Offensive,stop fool,Neither,Neither,Hate,Offensive,False
+29,This UI is a joke frfr,Neither,ui joke frfr,Neither,Neither,Offensive,Neither,False
+31,Big talk for someone who can’t pass hello-world,Offensive,big talk someone pass,Offensive,Neither,Neither,Offensive,False
+64,"You seriously need to chill, that was dum",Pending,seriously need chill dum,Neither,Neither,Hate,pending,False
+67,That's a damn Poke'mon.,Neither,damn,Neither,Neither,Offensive,Neither,False
+72,I thought he was trying to jump in the water and was for sure this was dude was about to die,Neither,thought trying jump water sure dude die,Neither,Neither,Offensive,Neither,False
+75,Then don't play the damn game in first place?,Neither,play damn game first place,Neither,Neither,Offensive,Neither,False
+76,Why the hell his hand out there tryna help the other girl.,Offensive,hell hand tryna help girl,Offensive,Neither,Offensive,Offensive,False
+79,"No, you're right, it's not human, ITS A DOG!",Neither,right human dog,Hate,Neither,Neither,Neither,False
+81,Some people are just wired differently! Really differently!,Neither,people wired differently really differently,Neither,Offensive,Neither,Neither,False
+82,Bro messed with my mind.,Neither,bro messed mind,Neither,Neither,Offensive,Neither,False
+83,Damn it! I have to see your fucking post again?,Offensive,damn see fucking post,Neither,Neither,Hate,Offensive,False
+84,My husband used to do this. It drove me nuts lol,Neither,husband used drove nuts lol,Neither,Neither,Offensive,Neither,False
+85,Do I pay my internet bill just to see fucking things like this?,Offensive,pay internet bill see fucking things like,Neither,Offensive,Offensive,Offensive,False
+86,Imagine buying this house and 10 years in you find a whole secret half of the house,Neither,imagine buying house years find whole secret half house,Neither,Hate,Neither,Neither,False
+87,If I had money....this wouldnt be a thing I wouldn't waste money on.,Neither,money wouldnt thing would waste money,Neither,Offensive,Neither,Neither,False
+94,Looks like a great set for a horror movie.,Neither,looks like great set horror movie,Neither,Offensive,Neither,Neither,False
+95,Would have been great video without her goofy a — in it.,Offensive,would great video without goofy,Neither,Offensive,Neither,Offensive,False
+97,My cat put a dead mouse in my ex-boyfriend's boot. This gives off the same vibe.,Neither,cat put dead mouse boot gives vibe,Neither,Hate,Neither,Neither,False
+99,So dangerous. You just NEVER know when a dog will snap. Good dogs still snap.,Neither,dangerous never know dog snap good dogs still snap,Neither,Offensive,Neither,Neither,False

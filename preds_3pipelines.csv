@@ -1,0 +1,100 @@
+STT,Tweet,Final Votes,tweet_clean,pred_ML,pred_RNN,pred_BERT,y_true
+1,@IamReagzo Ohh now my stupid brain was somewhere,Neither,ohh stupid brain somewhere,Neither,Neither,Offensive,Neither
+2,@vesperdigital You're obviously an idiot.,Offensive,obviously idiot,Neither,Neither,Hate,Offensive
+3,@Hankers @tleehumphrey @primetimecrime @cbcwatcher For fuck's sakes.,Neither,fuck sakes,Hate,Neither,Offensive,Neither
+4,"@lekside34 Since your father is not dumb, let him speak out like Wole Soyinka, I presume you have not used your father for Atamadu",Offensive,since father dumb let speak like wole soyinka presume used father atamadu,Neither,Neither,Neither,Offensive
+5,@RaymondRowan7 Who gives a fuck.,Offensive,gives fuck,Hate,Neither,Offensive,Offensive
+6,@KobeissiLetter I can really live without the daily hate speech,Neither,really live without daily hate speech,Neither,Neither,Neither,Neither
+7,The weather is really nice today.,Neither,weather really nice today,Neither,Neither,Neither,Neither
+8,I’m planning to travel next month.,Neither,planning travel next month,Neither,Neither,Neither,Neither
+9,Coffee in the morning makes me happy,Neither,coffee morning makes happy,Neither,Neither,Neither,Neither
+10,Music helps me concentrate while studying.,Neither,music helps concentrate studying,Neither,Neither,Neither,Neither
+11,The sunset by the beach was beautiful.,Neither,sunset beach beautiful,Neither,Neither,Neither,Neither
+12,"Shut up, you don’t know anything.",Offensive,shut know anything,Hate,Neither,Hate,Offensive
+13,That movie was so damn boring.,Neither,movie damn boring,Neither,Neither,Offensive,Neither
+14,You’re such an idiot.,Offensive,idiot,Neither,Offensive,Hate,Offensive
+15,Muslims are all terrorists.,Hate,muslims terrorists,Neither,Neither,Hate,Hate
+16,I can’t stand those people from that religion.,Hate,stand people religion,Neither,Neither,Hate,Hate
+17,Technology is advancing so fast these days.,Neither,technology advancing fast days,Neither,Neither,Neither,Neither
+18,That’s a stupid comment.,Offensive,stupid comment,Neither,Neither,Neither,Offensive
+19,The food at that restaurant was delicious.,Neither,food restaurant delicious,Neither,Neither,Neither,Neither
+20,Those people are ruining our culture.,Hate,people ruining culture,Neither,Neither,Hate,Hate
+21,I dislike people from that background.,Hate,dislike people background,Neither,Neither,Neither,Hate
+22,That’s amazing,Neither,amazing,Neither,Neither,Neither,Neither
+23,@realMaalouf And this is acceptable but questioning your countrys immigration policy is racist hate speech,Hate,acceptable questioning countrys immigration policy racist hate speech,Hate,Neither,Neither,Hate
+24,Stop being such a fool.,Offensive,stop fool,Neither,Neither,Hate,Offensive
+25,RT @dev_guy: this patch is TRASH lol http://t.co/fixme,Neither,rt patch trash lol,Neither,Neither,Neither,Neither
+26,"bruh that take is awful, read the article first",Neither,bruh take awful read article first,Neither,Neither,Neither,Neither
+27,"Your mic sounds busted, stream is unwatchable",Neither,mic sounds busted stream unwatchable,Neither,Neither,Neither,Neither
+28,Stop crying about ranks and learn the basics,Offensive,stop crying ranks learn basics,Neither,Neither,Neither,Offensive
+29,This UI is a joke frfr,Neither,ui joke frfr,Neither,Neither,Offensive,Neither
+30,@support late AGAIN… what a clown move,Offensive,late clown move,Neither,Neither,Neither,Offensive
+31,Big talk for someone who can’t pass hello-world,Offensive,big talk someone pass,Offensive,Neither,Neither,Offensive
+32,"Spamming my TL with mid takes, chill pls",Neither,spamming tl mid takes chill pls,Neither,Neither,Neither,Neither
+33,That ref was BLIND tonight omg #worstcall,Offensive,ref blind tonight omg,Neither,Neither,Neither,Offensive
+34,Great game last night—OT winner was insane,Neither,great game last winner insane,Neither,Neither,Neither,Neither
+35,"Bro your roadmap is nonsense, do some research",Offensive,bro roadmap nonsense research,Neither,Neither,Neither,Offensive
+36,Hot take? more like cold garbage,Neither,hot take like cold garbage,Neither,Neither,Neither,Neither
+37,@influencer that ad was painful to watch lol,Neither,ad painful watch lol,Neither,Neither,Neither,Neither
+38,"You’re not “shadowbanned,” your content is bad",Offensive,shadowbanned content bad,Neither,Neither,Neither,Offensive
+39,"This build is terrible, start over",Neither,build terrible start,Neither,Neither,Neither,Neither
+40,ALL CAPS won’t make your point SMARTER!!!,Offensive,caps make point smarter,Neither,Neither,Neither,Offensive
+41,"Keyboard warrior energy, zero facts attached",Offensive,keyboard warrior energy zero facts attached,Neither,Neither,Neither,Offensive
+42,RT @news: bad stats. Your thread cherry-picks so hard,Neither,rt bad stats thread hard,Neither,Neither,Neither,Neither
+43,"Who approved this design, seriously #uxfail",Neither,approved design seriously,Neither,Neither,Neither,Neither
+44,"Try harder next time, this was embarrassing",Neither,try harder next time embarrassing,Neither,Neither,Neither,Neither
+45,You clearly didn’t read beyond the headline,Neither,clearly read beyond headline,Neither,Neither,Neither,Neither
+46,@team these release notes = word salad,Neither,release notes word salad,Neither,Neither,Neither,Neither
+47,Broooo that edit is so bad lmao,Neither,broooo edit bad lmao,Neither,Neither,Neither,Neither
+48,"Such a noob move, rookie mistake",Neither,noob move rookie mistake,Neither,Neither,Neither,Neither
+49,This thread aged in 5 minutes,Neither,thread aged minutes,Neither,Neither,Neither,Neither
+50,"Keep coping in the replies, it’s hilarious",Neither,keep coping replies hilarious,Neither,Neither,Neither,Neither
+51,@op stop flexing mid results,Neither,stop flexing mid results,Neither,Neither,Neither,Neither
+52,That chart? meaningless. learn to label axes,Neither,chart meaningless learn label axes,Neither,Neither,Neither,Neither
+53,You post every hour and say nothing,Neither,post every hour say nothing,Neither,Neither,Neither,Neither
+54,RT @coach: fundamentals. You skipped all of them,Neither,rt fundamentals skipped,Neither,Neither,Neither,Neither
+55,Your argument is nonsense—do some research first,Pending,argument research first,Neither,Neither,Neither,pending
+56,"This code is a disaster, fix it before pushing",Neither,code disaster fix pushing,Neither,Neither,Neither,Neither
+57,"Terrible take, you clearly didn’t read the article",Neither,terrible take clearly read article,Neither,Neither,Neither,Neither
+58,Stop whining about bugs and learn basics,Pending,stop whining bugs learn basics,Neither,Neither,Neither,pending
+59,Embarrassing post—try harder next time,Neither,embarrassing harder next time,Neither,Neither,Neither,Neither
+60,"You’re such a noob, can’t even run hello world",Pending,noob even run hello world,Neither,Neither,Neither,pending
+61,@Jane Bro that outfit is ridiculous,Neither,bro outfit ridiculous,Neither,Neither,Neither,Neither
+62,"Who writes code like that, unbelievable",Neither,writes code like unbelievable,Neither,Neither,Neither,Neither
+63,"This post is garbage, zero effort shown",Pending,post garbage zero effort shown,Neither,Neither,Neither,pending
+64,"You seriously need to chill, that was dum",Pending,seriously need chill dum,Neither,Neither,Hate,pending
+65,"The cat's shock is not funny at all. Do something more creative. Cats are just like people, they have feelings too.",Neither,cat shock funny something creative cats like people feelings,Neither,Neither,Neither,Neither
+66,"I heard armadillos carry a disease, I can’t remember which one.",Neither,heard armadillos carry disease remember one,Neither,Neither,Neither,Neither
+67,That's a damn Poke'mon.,Neither,damn,Neither,Neither,Offensive,Neither
+68,I'm not gonna lie.The way it snuggled up to your hand was kinda cute.,Neither,gon na way snuggled hand kinda cute,Neither,Neither,Neither,Neither
+69,AI is stealing the beauty of reality.,Neither,ai stealing beauty reality,Neither,Neither,Neither,Neither
+70,It's a dog in a costume look carefully.,Neither,dog costume look carefully,Neither,Neither,Neither,Neither
+71,Every time i hear that 'teet' sound on your video i capturers him.,Neither,every time hear sound video capturers,Neither,Neither,Neither,Neither
+72,I thought he was trying to jump in the water and was for sure this was dude was about to die,Neither,thought trying jump water sure dude die,Neither,Neither,Offensive,Neither
+73,She is helping her i dont see any problem.,Neither,helping dont see problem,Neither,Neither,Neither,Neither
+74,And the fact the people that control these things purposely do things like this makes it even worse.,Neither,fact people control things purposely things like makes even worse,Neither,Neither,Neither,Neither
+75,Then don't play the damn game in first place?,Neither,play damn game first place,Neither,Neither,Offensive,Neither
+76,Why the hell his hand out there tryna help the other girl.,Offensive,hell hand tryna help girl,Offensive,Neither,Offensive,Offensive
+77,U still have time to delete this,Neither,u still time delete,Neither,Neither,Neither,Neither
+78,"I didn’t even needed to go to the comment section and know that was a fight between Lou Bei, Gruan Yu and Zhengi Fei vs Lu Bu.",Neither,even needed go comment section know fight lou bei gruan yu zhengi fei vs lu bu,Neither,Neither,Neither,Neither
+79,"No, you're right, it's not human, ITS A DOG!",Neither,right human dog,Hate,Neither,Neither,Neither
+80,"For all those asking, and complaining and being the Lorax for cats apparently- the cat is fine, the cat is not hurt nor dead and my cats like it",Neither,asking complaining lorax cats cat fine cat hurt dead cats like,Neither,Neither,Neither,Neither
+81,Some people are just wired differently! Really differently!,Neither,people wired differently really differently,Neither,Offensive,Neither,Neither
+82,Bro messed with my mind.,Neither,bro messed mind,Neither,Neither,Offensive,Neither
+83,Damn it! I have to see your fucking post again?,Offensive,damn see fucking post,Neither,Neither,Hate,Offensive
+84,My husband used to do this. It drove me nuts lol,Neither,husband used drove nuts lol,Neither,Neither,Offensive,Neither
+85,Do I pay my internet bill just to see fucking things like this?,Offensive,pay internet bill see fucking things like,Neither,Offensive,Offensive,Offensive
+86,Imagine buying this house and 10 years in you find a whole secret half of the house,Neither,imagine buying house years find whole secret half house,Neither,Hate,Neither,Neither
+87,If I had money....this wouldnt be a thing I wouldn't waste money on.,Neither,money wouldnt thing would waste money,Neither,Offensive,Neither,Neither
+88,The moments when I had a panic attack.,Neither,moments panic attack,Neither,Neither,Neither,Neither
+89,I’ve watched too many horror films lol this looks like something a killer set up to confuse people,Neither,watched many horror films lol looks like something killer set confuse people,Neither,Neither,Neither,Neither
+90,This is what my nightmares are made of,Neither,nightmares made,Neither,Neither,Neither,Neither
+91,So this is what the billionaires do with the money they steal from the hardworking people…,Hate,billionaires money steal hardworking,Neither,Neither,Neither,Hate
+92,"Some people out here starving while others have ""fun"" houses",Neither,people starving others fun houses,Neither,Neither,Neither,Neither
+93,I don’t trust him or that house. He definitely could kidnap you and no one would ever find you.,Neither,trust house definitely could kidnap one would ever find,Neither,Neither,Neither,Neither
+94,Looks like a great set for a horror movie.,Neither,looks like great set horror movie,Neither,Offensive,Neither,Neither
+95,Would have been great video without her goofy a — in it.,Offensive,would great video without goofy,Neither,Offensive,Neither,Offensive
+96,Have you seen how important learning is?,Neither,seen important learning,Neither,Neither,Neither,Neither
+97,My cat put a dead mouse in my ex-boyfriend's boot. This gives off the same vibe.,Neither,cat put dead mouse boot gives vibe,Neither,Hate,Neither,Neither
+98,Oh no! That kid shouldn’t scream at d poor dog,Neither,oh kid scream poor dog,Neither,Neither,Neither,Neither
+99,So dangerous. You just NEVER know when a dog will snap. Good dogs still snap.,Neither,dangerous never know dog snap good dogs still snap,Neither,Offensive,Neither,Neither
