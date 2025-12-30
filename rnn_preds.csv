@@ -1,101 +1,105 @@
-pred_RNN
-Offensive
-Offensive
-Offensive
-Neither
-Offensive
-Offensive
-Neither
-Offensive
-Hate
-Hate
-Neither
-Neither
-Offensive
-Offensive
-Neither
-Offensive
-Neither
-Offensive
-Offensive
-Offensive
-Offensive
-Offensive
-Offensive
-Offensive
-Hate
-Offensive
-Offensive
-Neither
-Hate
-Offensive
-Offensive
-Hate
-Neither
-Offensive
-Neither
-Offensive
-Hate
-Offensive
-Hate
-Offensive
-Hate
-Offensive
-Offensive
-Neither
-Offensive
-Offensive
-Offensive
-Offensive
-Neither
-Neither
-Hate
-Neither
-Neither
-Hate
-Neither
-Neither
-Offensive
-Neither
-Neither
-Offensive
-Hate
-Neither
-Offensive
-Neither
-Offensive
-Neither
-Offensive
-Neither
-Offensive
-Offensive
-Offensive
-Offensive
-Neither
-Offensive
-Offensive
-Neither
-Offensive
-Offensive
-Neither
-Offensive
-Offensive
-Offensive
-Offensive
-Offensive
-Offensive
-Neither
-Hate
-Hate
-Offensive
-Neither
-Offensive
-Hate
-Neither
-Hate
-Offensive
-Neither
-Offensive
-Offensive
-Offensive
-Offensive
+Tweet,pred_id,pred_RNN,confidence,Final Votes
+RT @BirdGang316: If you a bird throw it up #birdgang #EaglesNation,2,Neither,0.9972946,Neither
+RT @TheRaceDraft: Karate bitch https://t.co/UtEUTZkjOk,1,Offensive,0.9980489,Offensive
+When ratchet bitches find out the club ain't 10$ to get in https://t.co/GeJUIY1XG0,1,Offensive,0.99957174,Offensive
+"RT @trevso_electric: You want a hot body? You want a Bugatti? You better be born into wealth, bitch.",1,Offensive,0.99571407,Offensive
+We don't pop out bitch we slide,1,Offensive,0.9992561,Offensive
+@Queen_Kaaat how about I just fuck you right in the pussy,1,Offensive,0.9644372,Offensive
+RT @The_Paradox: FAGGOT RT @80sbaby4life: I was in the club and there was this good lookin bitch. ..she had gold teeth tho. I was confused &#8230;,1,Offensive,0.9167814,Offensive
+"@StPaul_Brandon 
+She colored not Lebanese",2,Neither,0.9541929,Neither
+Y'all trying to use The Lord to sell pussy on this corner... I already know!,1,Offensive,0.9968432,Offensive
+RT @NunuB__: When you cracking jokes on your friend in the bitch take it to far. http://t.co/7VXUf6W048,1,Offensive,0.99950933,Offensive
+@TheKinzieWells @chansdav all 3 :) haha. Because I'm #thinkingofyou and your #dirtylove sexxy bitch!!,1,Offensive,0.9980926,Offensive
+"@_DCorNothing_ @KyariesDa4 he should! I got tired of hearing how he can eat pussy 10,000 ways like damn &#128514;&#128514;",1,Offensive,0.99948955,Offensive
+RT @LuchieCapone: &#8220;Kik me&#8221; ass hoes RT @mayasvritaa: Got an iPhone but it&#8217;s off ass bitches,1,Offensive,0.99799913,Offensive
+"This faggot in a truck was tailgating me, so I hit my breaks, he cut me off I switched lanes he cuts me off again to be a little biatch then",0,Hate Speech,0.90138096,Offensive
+Many people claiming slippery slope is now absolute are same ones who said slippery slope is an argument for the paranoid delusional. #tcot,2,Neither,0.9403432,Neither
+@TB12FAN that's what I thought pussy,1,Offensive,0.99930525,Offensive
+"I want my bitch to answer if my ex calling, with my dick in her mouth",1,Offensive,0.9642232,Offensive
+I was in love with Charlie &#128553;,2,Neither,0.99273163,Neither
+This world needs a build a bitch workshop,1,Offensive,0.9727946,Offensive
+"Look at them hoes, man fuck them hoes niggah lets get smoked",1,Offensive,0.99157894,Offensive
+RT @prettycha305: Monkey see &#128585;&#128584;monkey do hoes&#128586;,1,Offensive,0.99706584,Offensive
+Yellow jackets at gas station trash cans are THE worst,2,Neither,0.99675083,Neither
+RT @Todd__Kincannon: Feminism (noun): The perverted political ideology of hateful bitches too fat to get in airplane seats --&gt; http://t.co/&#8230;,1,Offensive,0.98967034,Offensive
+My bitch bad like Brittany but I wish I had Brittany,1,Offensive,0.9958692,Offensive
+RT @PaulIzzo2: @HomSec @LyndaG1963 Honey pot Harf is the state dept version of pussy Paltrow,1,Offensive,0.99002784,Offensive
+Dis hoe wasnt dis violent on Lottery Ticket &#128514;&#128514;,1,Offensive,0.93250865,Offensive
+@BakariT bitch what?,1,Offensive,0.996007,Offensive
+"Hoes thnk they ""won"" when the nigga thats ridin the fence start givin them a lil attention... what u won hoe? A wishywashy ass nigga? Oh.",1,Offensive,0.7493493,Hate
+&#8220;@DAMNfuckNEE I just wana eat some food. Drink some liq. Go to this party. And have a bad bitch waitin on a nigga when I return.&#8221;&#8221;,1,Offensive,0.9914944,Offensive
+"+ 1 RT @RayThaGawd: &#8220;@_AListRaivyn: Joe Budden makes people delete their twitter accounts lmfao.&#8221; He's pussy tho he blocked me""",1,Offensive,0.9986463,Offensive
+Some movies are made to facilitate dudes to pick girls up. Think out side the box lil nigguh,1,Offensive,0.986026,Offensive
+That was a bitch move I pulled...probably the most heartless thing I did,1,Offensive,0.97919226,Offensive
+"RT: Thank you, Captain. It'll never be the same. @Yankees #Jeter#2 http://t.co/EIe8D8C5cj&#8221;",2,Neither,0.9935133,Neither
+@MarcSesslerNFL ya 5 games are you a retard?,1,Offensive,0.8489712,Offensive
+RT @earthWormSLIM: if melo go to the bulls they still gon be trash unless melo get special privileges allowin him 2play in a allstar uniform,2,Neither,0.9933013,Neither
+RT @randycaliboi: When I hear an ugly bitch talk about another ugly bitch &#128528; ... http://t.co/RwvyvPYE2n,1,Offensive,0.8744929,Offensive
+RT @JoeBudden: U famous niggas ruined the game by jacking up the price on the pussy. - Michael Paul Budden.,0,Hate Speech,0.6352063,Offensive
+"RT @TheVoiceOfMiami: I don't care how much pussy I get, I still got to jack my dick...",1,Offensive,0.99027437,Offensive
+"RT @Damiah_daddyx3: Lmao, I fucks with @HaveMercyyy &amp; @KaliKushDoll_ real talk, them bitches know how to have FUN!",1,Offensive,0.97464335,Offensive
+"This bitch lmao ""Steve Wilkos be goin on mfs &#128553;&#128514;"" https://t.co/AgQwqzwTZX",1,Offensive,0.9847935,Offensive
+RT if one of your followers sell pussy but hop on Twitter like they got all the morals and class,1,Offensive,0.99959546,Offensive
+"@GingerDemoness 
+My shit's like an eggplant baby. Black and big enough so dat all da women gets dem a piece",1,Offensive,0.88314605,Offensive
+Spring breakkkk bitches &#128513;,1,Offensive,0.99911374,Offensive
+RT @Nekkohbk: I stopped caring about mcm when I noticed dykes where getting chose before me,1,Offensive,0.7301443,Hate
+Daddy cracker and a few bad bitches...,1,Offensive,0.9976351,Offensive
+"#porn,#android,#iphone,#ipad,#sex,#xxx, | #XXX | Hairy Alicia Silver &amp; Tinslee Reagan hairy pussy &#65533; | http://t.co/ToljqdXEE3",1,Offensive,0.99502087,Offensive
+RT @thereal_EMandM: Yankee Doodle had a farm. Cotton farm,2,Neither,0.99855644,Neither
+"Bow down bitches, bow down bitchess",1,Offensive,0.9995555,Offensive
+"RT @SteveStfler: A hoes favorite line is, ""Don't judge me, you don't know what I been through!""
+
+Yeah I do... a lot of dick.",1,Offensive,0.9989557,Offensive
+"I wanna see some ass clapping, legs shaking, i wan see a bitch get on they head fa dese BEATs...",1,Offensive,0.9997898,Offensive
+This bitch done blew my high and I was high off all of these drugs,1,Offensive,0.9990637,Offensive
+If y'all preppy bitches ever arguing like this at a party and don't do nothing y'all getting hit with a bottle fr,1,Offensive,0.9837487,Offensive
+RT @iCARLEYBBY: &#8220;@LexLuthorDaKing: Some* RT @iCARLEYBBY: Niggas be so pressed for pussy&#8221; my bad yes some!,1,Offensive,0.8084982,Offensive
+RT @Httpjaebee: hoes Be going through depression when they dude in jail bc other females gettn told the same shit they all need to be there&#8230;,1,Offensive,0.99492407,Offensive
+"@Drake thank you for the lyrics, these bitches so gullible an sleep on your music they just be like aw u so sweet let me suck ur dick",1,Offensive,0.9977551,Offensive
+Review: The Yanks are Coming! A Military History of the United States in World War I http://t.co/Hv4k1yZACH via @BreitbartNews,2,Neither,0.999483,Neither
+@santos_brina what a ratchet ass bitch bet she felt dumb&#9996;&#65039;,1,Offensive,0.99854136,Offensive
+"Where the bad bitches at? And by ""Bad Bitches"", I mean ""tacos"".",1,Offensive,0.9993327,Offensive
+Biggest booth I ever seen lastnight bitch had a leopard print jumper on look like an over weight leopard,1,Offensive,0.99933225,Offensive
+diet coke trash,2,Neither,0.90744877,Neither
+I don't have a wife she my bitch for the night. If she was catching bodies then it might be alright,1,Offensive,0.99878496,Offensive
+RT @VillageBae: I hate when faggots talk shit on here then block me so I can't respond. Bitch I will write you a letter with my response an&#8230;,0,Hate Speech,0.91522866,Hate
+RT @tylerfucks: recent studies have shown that ur a lil bitch,1,Offensive,0.939569,Offensive
+"That bitch called on Thor for some strength. &#58386;&#58386; RT""@ChubbyGirlGod: Wait... http://t.co/UAf57JyiOi""",1,Offensive,0.98284495,Offensive
+These hoes crazy yo.,1,Offensive,0.9979955,Offensive
+"""@airmaxlad1: Hot meat http://t.co/BRz8Imk5vK"" sexy as fuck scally lad. I would love to meet him and his trainers.",1,Offensive,0.75335497,Offensive
+#honeybadger bitch,1,Offensive,0.996007,Offensive
+&#8220;@taylorsimonee_: I tend to have more sense that bitches older than me. That's sad.&#8221;,1,Offensive,0.99760336,Offensive
+@ItsMeKevin10 @josie618 @ThatSlutAdrian @ZaidSaracini @papigabs lmao this nigguh,0,Hate Speech,0.5445658,Offensive
+Fuck you ghetto ass coons,0,Hate Speech,0.72898465,Hate
+Is Hillary the &#8216;dodo bird&#8217; candidate? http://t.co/YfUbgwQ4tw via @worldnetdaily,2,Neither,0.99819946,Neither
+"RT @YaboySkeete: ""A real man gonna keep it real with his bitches"" LMAOOOOO shut up I'm not tellin u about other women mind ur business",1,Offensive,0.9981772,Offensive
+@Hunglikerobby_ @emmadiabetes I have an open mind and that bitch Beyonc&#233; is crazy&#128528;,1,Offensive,0.55311793,Offensive
+RT @Naishaa_: Fuck a nigga and a bitch,0,Hate Speech,0.5777082,Offensive
+Your acting like a spoiled little faggot have fun,0,Hate Speech,0.6497462,Hate
+@AmericaAnti You're dismissed bitch. Not in the mood for fucktards this morning. #Blocked @Darknight420,1,Offensive,0.7539174,Offensive
+Gabby's a bitch and has three accounts,1,Offensive,0.81729573,Offensive
+RT @__PrettyTea: 30 bottles ! 30 bitches !,1,Offensive,0.9993856,Offensive
+RT @beethetranny: can we please stop talking about how some scumbag faggots mugshot is sexy? you dumb whores.,0,Hate Speech,0.9073618,Hate
+"@whiteangelss84 @fields_devante bitch stfu u livin off our tax money too, we pay shit just like u so don't get that white power shit to head",0,Hate Speech,0.5696989,Offensive
+My teacher talm bout she would make every senior go to da army fa 2yrs &#128530; bitch please meat ainnn doin uh damn thang,1,Offensive,0.98918533,Offensive
+RT @Yankees: Were you expecting anything short of fireworks in his final homestand? #FarewellCaptain http://t.co/5nTacrQ43m,2,Neither,0.98756546,Neither
+"Got 2 bad bitches with me, Molly and aquafina",1,Offensive,0.99954164,Offensive
+@saucygyro she's a dyke &amp; looks like she's 12,0,Hate Speech,0.7103763,Offensive
+"@MyKat_Meows some blockhead hoe, she ain't nothing,boo",1,Offensive,0.9828924,Offensive
+RT @thegame: RT @sean_locs93: The Game Beats 40 Glocc in LA (Full Video) http://t.co/80lf7HvsWm via @youtube - this bitch 40 cop can't be s&#8230;,1,Offensive,0.80496824,Offensive
+&#8220;@HighClassCapri: @what_evaittakes lmao definitely not &#127814;&#8221;&#128553;&#128553;&#128553; I was bout to say don't front bitch that shit a freeway,1,Offensive,0.99925655,Offensive
+RT @PoohSavage: @Thompson_Era cuff her crazy boy you might not ever find another especial not these dirty crew fucking party hoes out here &#8230;,1,Offensive,0.98270184,Offensive
+""" her pussy lips like Heaven doors "" &#128524;",1,Offensive,0.9989674,Offensive
+@HAUNTINGILINSKY @sorryimalex Bc @taylorcaniff is trash why would he lie about that? I told you he's real,2,Neither,0.7540353,Neither
+One of the great treasures of living in San Diego is ready access to Mexican Twinkies made with real sugar and Mexican Coca Cola.,2,Neither,0.7325307,Neither
+son of a bitch. I hope I don't get the e- bola before I can ride my Harley at Sturgis.,1,Offensive,0.99708706,Offensive
+"@tyler_wilde CH3BURASHKA sure gets to be a nit-picky Russian monkey/bear thing sometimes, doesn't he?",2,Neither,0.83147186,Neither
+RT @domhowx: You know you're ugly when an ape was chosen as a man crush and you've never been http://t.co/DWPs7b4xJU,1,Offensive,0.6116962,Neither
+@Marcfoor4 @_Maniac_Mind_ Am not down with gay shit u better ask my bitch,0,Hate Speech,0.7003279,Offensive
+RT @FunnyQuotees: Halloween use to be a holiday for kids. It is now National dress like your inner hoe day.,1,Offensive,0.8502239,Offensive
+@idclogan bad ass bitch!,1,Offensive,0.97788596,Offensive
+This bitch pregnant again &#128064;&#128514;&#128514;,1,Offensive,0.9706778,Offensive
+RT @chelseaxlaser: I really need to take my rose colored glasses off though. I gotta stop thinking everybody does shit with good intentions&#8230;,1,Offensive,0.99644357,Neither
+I could b out here like some of these chicks...in the streets slingin pussy for a couple dollars but im not,1,Offensive,0.9929436,Offensive
