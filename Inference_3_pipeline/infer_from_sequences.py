@@ -7,7 +7,7 @@ from tensorflow.keras.utils import pad_sequences
 import json
 
 
-X_NPY = r"C:\Users\PC\CS221\Inference_3_pipeline\X_rnn.npy"
+X_NPY = r"C:\Users\PC\CS221\X_rnn.npy"
 RNN_MODEL_KERAS = r"C:\Users\PC\CS221\output_RNN_LSTM\LSTM1D_model\lstm1d_hate_speech_patched_v2.keras"
 OUT_CSV = r"C:\Users\PC\CS221\rnn_preds.csv"
 CFG_JSON = r"C:\Users\PC\CS221\output_RNN_LSTM\LSTM1D_model\config_only.json"

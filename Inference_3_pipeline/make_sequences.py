@@ -4,7 +4,7 @@ import os, re, pickle, json
 import numpy as np
 import pandas as pd
 
-TEST_FILE = r"C:\Users\PC\CS221\Inference_3_pipeline\100_samples.xlsx"
+TEST_FILE = r"C:\Users\PC\CS221\Inference_3_pipeline\test_100_stratified_from_test.csv"
 TEXT_COL  = "Tweet"
 
 TOKENIZER_PKL = r"C:\Users\PC\CS221\output_RNN_LSTM\LSTM1D_model\tokenizer_lstm1d.pkl"
